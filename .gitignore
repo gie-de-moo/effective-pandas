@@ -7,3 +7,4 @@ models/
 *.epub
 *.fthr
 __pycache__
+.ipynb_checkpoints/*
